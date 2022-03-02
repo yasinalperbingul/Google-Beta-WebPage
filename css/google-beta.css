@@ -14,10 +14,10 @@
   }
 
 .searchbar{
-    height:22px;
+    height:28px;
     border:none;
     width:500px;
-    font-size:16px;
+    font-size:15px;
     outline: none;
   }
 
@@ -38,7 +38,7 @@
 
   .bottom-part{
       background-color:aquamarine;
-      width: 780px;
+      width: 772px;
       height: 200px;
       float: left;
       margin-top: 2px;
@@ -57,7 +57,7 @@
 
   .bottom-part-three{
     background-color: mediumturquoise;
-    width: 780px;
+    width: 772px;
     height: 200px;
     float: left;
     margin-top: 2px;
@@ -67,5 +67,22 @@
   .fixing{
     font-size:x-large;
     text-align: center;
+  }
+
+  .margin-60px{
     margin-top: 60px;
+  }
+
+  .margin-40px{
+    margin-top: 40px;
+  }
+
+  .margin-10px{
+    margin-top: 10px;
+  }
+
+  .footer{
+    margin-top: 500px;
+    font-size: small;
+    
   }
